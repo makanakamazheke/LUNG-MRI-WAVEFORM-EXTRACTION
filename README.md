@@ -1,3 +1,6 @@
+The following the brief provided for this year 3 group project
+
+
 # LUNG-MRI-WAVEFORM-EXTRACTION
 
 YEAR 3 PROJECT
