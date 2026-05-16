@@ -6,6 +6,8 @@
 
 Final Grades : 78% Group report, 95% poster presentation, and 90% Group Process mark. 
 
+My final individual grade (CC identifier) - 84%
+
 The following brief was provided for this year 3 group project
 
 
