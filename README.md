@@ -2,7 +2,8 @@
 
 ![Lung overlay animation](Animations/lung_overlay_animation.gif)
 
-*Green contour: manually drawn ROI (right hemidiaphragm). Red contour: nnU‑Net automated lung mask. The animation cycles through 30 frames of a dynamic MRI time series, illustrating breathing motion and segmentation quality.*
+*I created this animation to help explain the project. 
+Green contour: manually drawn ROI (right hemidiaphragm). Red contour: nnU‑Net automated lung mask. The animation cycles through 30 frames of a dynamic MRI time series, illustrating breathing motion and segmentation quality.*
 
 Final Grades : 78% Group report, 95% poster presentation, and 90% Group Process mark. 
 
